@@ -17,10 +17,6 @@ LLM Operator converts your GPU clusters to a platform for generative AI workload
 
 Please visit [our documentation site](https://llm-operator.readthedocs.io/).
 
-## High-level Architecture
-
-![Architecture Diagram](docs/images/architecture_diagram.png)
-
 ## A Demo Video
 
 Please see [this demo video](https://drive.google.com/file/d/1IIDytriu4Cl1O9Wo7fXzHkS1kbqJxfXO/view?usp=sharing).
