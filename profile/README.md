@@ -1,6 +1,6 @@
 # LLM Operatror
 
-LLM Operator converts your GPU clusters to a platform for generative AI workloads.
+LLM Operator transform your GPU clusters into a powerhouse for generative AI workloads.
 
 ## Key Values
 
