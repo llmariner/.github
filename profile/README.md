@@ -4,4 +4,6 @@ LLMariner transforms your GPU clusters into a powerhouse for generative AI workl
 
 ![alt text](https://github.com/llmariner/.github/blob/main/images/logo.png?raw=true)
 
-Please visit [our documentation site](https://llmariner.readthedocs.io/).
+- Main landing page: https://llmariner.ai
+- Documentation site: https://llmariner.readthedocs.io/
+- Issues: https://github.com/llmariner/llmariner/issues
